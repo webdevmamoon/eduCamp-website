@@ -1,6 +1,16 @@
-* {
+body {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+}
+
+/* arousel style*/
+.carousel-img {
+    height: 600px;
+    object-fit: cover;
+}
+
+.carousel-caption {
+    bottom: 7rem;
 }
